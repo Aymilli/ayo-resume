@@ -196,6 +196,17 @@ h2, h3 {
 }
 
 
+.desc.inline-list {
+  list-style-type: none; /* Removes bullets */
+  padding: 0;
+  margin: 0;
+  width: 100%; /* Ensures full-width usage */
+}
+
+.desc.inline-list li {
+  display: inline-block; /* Aligns list items horizontally */
+  margin-right: 15px; /* Space between items */
+}
 
 
     
