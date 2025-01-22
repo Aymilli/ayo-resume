@@ -171,4 +171,32 @@ Page Rules
  ul.skills{margin: 0 10px 0 0;}
  ul.skills li{ font-size: 9pt; margin-bottom:0}
 
+.section {
+  margin: 20px 0; /* Adjust vertical spacing between sections */
+}
+
+.subsection {
+  margin-bottom: 10px; /* Reduce the gap between subsections */
+}
+
+.desc {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin-top: 5px; /* Reduce margin above the list */
+  margin-bottom: 0; /* Remove extra space after list */
+}
+
+.emph {
+  margin-bottom: 5px; /* Reduce gap below the heading */
+}
+
+h2, h3 {
+  margin-top: 0;  /* Remove excessive margin above headings */
+  margin-bottom: 10px; /* Moderate space below headings */
+}
+
+
+
+
+    
 }
